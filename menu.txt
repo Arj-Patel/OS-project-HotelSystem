@@ -1,0 +1,4 @@
+1. Veg Burger 10 INR
+2. Chicken Burger 20 INR
+3. Ostrich Eggs 30 INR
+4. Egg Frankie 40 INR
